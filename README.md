@@ -1,4 +1,4 @@
-# Olá, me chamo Nicolle!
+#Nicolle Fernandes Bicudo
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 I’m currently working on ...
