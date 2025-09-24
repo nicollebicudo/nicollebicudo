@@ -1,5 +1,5 @@
 # Nicolle Fernandes Bicudo
-## Python | C# | MySQL | MongoDB | PHP | HTML | JavScript
+## Python | C# | MySQL | MongoDB | PHP | HTML | JavaScript
 
 ## 👩‍💻 Sobre mim
 Olá! Me chamo Nicolle, tenho 16 anos e estou cursando o Ensino Médio Técnico em Informática no Colégios Univap. Busco desenvolver cada vez mais as habilidades adquiridas na escola, evoluindo e aprendendo com o tempo.
